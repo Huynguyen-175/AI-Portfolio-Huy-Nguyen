@@ -42,5 +42,4 @@ An end-to-end NLP pipeline that automatically processes, categorizes, and extrac
 
 Always happy to chat, collaborate, or just geek out over prompts and LLMs.
 
-**Huy Nguyen**
-**email: huynguyen0517@gmail.com**
+**Email: huynguyen0517@gmail.com**
