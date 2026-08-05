@@ -1,20 +1,36 @@
 # 👋 Hey, I'm Huy Nguyen
-> NLP & LLM builder · AI student at HCC · Aspiring BAT transfer
+> Supply chain graduate · M.S. Finance student · AI, NLP & data enthusiast
 
-I'm an NLP/LLM enthusiast who loves turning language models into useful things. I build projects around prompt engineering, fine-tuning, RAG pipelines, and AI-powered tools — and share everything here. If it involves text and intelligence, I'm probably tinkering with it.
+I'm a supply chain graduate and current Master of Science in Finance student with additional coursework in artificial intelligence and programming. I enjoy building practical projects in machine learning, natural language processing, and computer vision while combining business knowledge with data-driven problem-solving.
 
 ---
 
 ## 🎓 Education
 
-Currently pursuing an **A.S. in Computer Science** at Houston Community College (HCC), with a focus on AI and machine learning. Completing coursework to transfer into the **Bachelor of Applied Technology (BAT)** program — working toward turning this passion into a full four-year degree.
+- **Master of Science in Finance — In Progress**  
+  University of Houston–Clear Lake (UHCL)
 
-**Courses completed:**
+- **Bachelor's Degree in Supply Chain and Logistics Technology**  
+  University of Houston, Main Campus
 
-- **Artificial Intelligence History & Foundations** *(ITAI-1370)* — Core concepts, milestones, and the evolution of AI from early symbolic systems to modern deep learning.
-- **Intro to Machine Learning** *(ITAI-1371)* — Supervised/unsupervised learning, model evaluation, feature engineering, and practical ML workflows.
-- **A.I. in Cybersecurity** *(ITAI-1372)* — Applying ML to threat detection, anomaly detection, and security automation.
-- **Natural Language Processing** *(ITAI-2373)* — Text preprocessing, embeddings, language models, and building NLP pipelines — the heart of my focus area.
+- **Selected Computer Science and Artificial Intelligence Coursework**  
+  Houston Community College (HCC) — **All courses completed with A grades**
+
+### Completed Coursework
+
+#### Artificial Intelligence
+
+- **Artificial Intelligence History & Foundations** *(ITAI-1370)* — Core concepts, major milestones, and the evolution of AI from early symbolic systems to modern deep learning.
+- **Introduction to Machine Learning** *(ITAI-1371)* — Supervised and unsupervised learning, model evaluation, feature engineering, and practical machine-learning workflows.
+- **A.I. in Cybersecurity** *(ITAI-1372)* — Applications of machine learning in threat detection, anomaly detection, and security automation.
+- **Natural Language Processing** *(ITAI-2373)* — Text preprocessing, embeddings, language models, and end-to-end NLP pipelines.
+- **Computer Vision and Artificial Intelligence** *(ITAI-1378)* — Image processing, feature extraction, object detection, and practical computer-vision applications.
+
+#### Programming
+
+- **Programming Fundamentals III** *(COSC 2436)* — Advanced programming concepts and problem-solving in Python.
+- **Programming Fundamentals II** *(COSC 1437)* — Intermediate programming concepts and application development in Python.
+- **Programming Fundamentals I** *(COSC 1436)* — Programming fundamentals and problem-solving in Java.
 
 ---
 
@@ -49,6 +65,6 @@ An end-to-end NLP pipeline that automatically processes, categorizes, and extrac
 
 ## 📬 Let's Connect
 
-Always happy to chat, collaborate, or just geek out over prompts and LLMs.
+Always happy to connect about artificial intelligence, finance, supply chain, data analytics, and collaborative projects.
 
 **Email: huynguyen0517@gmail.com**
