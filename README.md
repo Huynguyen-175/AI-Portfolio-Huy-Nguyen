@@ -20,6 +20,15 @@ Currently pursuing an **A.S. in Computer Science** at Houston Community College 
 
 ## 🚀 Featured Projects
 
+### 🦺 PPE Compliance Agent *(ITAI-1378 — Computer Vision)*
+[🔗 View on GitHub](https://github.com/Huynguyen-175/ITAI1378_Final_PPEComplianceAgent)
+
+A full perceive → reason → act CV agent, not just a detector — built to automatically verify PPE (mask) compliance for home health caregivers from a photo. A fine-tuned YOLOv8n model (90% mAP@0.5 on a 4,547-image dataset) feeds structured detections into an explicit rule-based reasoning layer, which logs every decision as a full inspectable JSON trace and outputs an annotated image + compliance report. Wrapped in an interactive Gradio demo. Real evaluation on 20 labeled test images hit a 95% task success rate — and surfaced a genuine reasoning-layer bug (a low-confidence false positive silently overriding correct detections) that I root-caused, fixed, and regression-tested, plus a second perception-layer limitation documented for future work.
+
+`Python` `YOLOv8` `Ultralytics` `OpenCV` `Gradio` `Computer Vision` `Agent Design`
+
+---
+
 ### 🚗 Used Car Price Prediction *(ITAI-1371 — Intro to Machine Learning)*
 [🔗 View on GitHub](https://github.com/Huynguyen-175/ITAI1371-Midterm-Group5-HUY-NGUYEN---ABRAHAM-BARRETO---SANDHYA-CHAMAKURI)
 
